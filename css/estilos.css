@@ -1,0 +1,21 @@
+img{
+    height: 700px; 
+   width: 100%;
+    border-radius:17px; 
+  }
+  h1{
+      color: coral;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  a{
+      color: rgb(247, 173, 147);
+      font-family: 'Times New Roman', Times, serif;
+  }
+  label{
+      color: coral;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  input{
+      color: coral;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
